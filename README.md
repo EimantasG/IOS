@@ -1,6 +1,4 @@
-# IOS Press author support
-
-The author support services are provided for the following journals published by IOS Press:
+Author support services are provided for the following journals published by IOS Press:
 
 - AI Communications
 - Applied Ontology
@@ -21,6 +19,8 @@ The author support services are provided for the following journals published by
 - Semantic Web
 - Strength, Fracture and Complexity
 - Web Intelligence
+
+Author support services are maintained by [VTeX, Lithuania](http://www.vtex.lt/en/).
 
 
 
