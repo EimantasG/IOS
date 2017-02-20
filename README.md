@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# IOS Press author support
 
-You can use the [editor on GitHub](https://github.com/EimantasG/IOS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The author support services are provided for the following journals published by IOS Press:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- AI Communications
+- Applied Ontology
+- Argument & Computation
+- Asymptotic Analysis
+- Bio-Medical Materials and Engineering
+- Biomedical Spectroscopy and Imaging
+- Biorheology
+- Computability
+- Information Services &  Use
+- International Shipbuilding Progress
+- Journal of Ambient Intelligence and Smart Environment
+- Journal of Computer Security
+- Journal of High Speed Networks
+- Journal of Integrative Neuroscience
+- Journal of Neutron Research
+- Risk and Decision Analysis
+- Semantic Web
+- Strength, Fracture and Complexity
+- Web Intelligence
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EimantasG/IOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
