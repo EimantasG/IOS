@@ -9,6 +9,7 @@ Author support service is provided for the following journals published by IOS P
 - [Biorheology](https://vtex-soft.github.io/texsupport.iospress-bir/)
 - [Computability](https://vtex-soft.github.io/texsupport.iospress-com/)
 - [Data Science](https://vtex-soft.github.io/texsupport.iospress-ds/)
+- [ICGA Journal](https://vtex-soft.github.io/texsupport.iospress-icg/)
 - [Information Services &  Use](https://vtex-soft.github.io/texsupport.iospress-isu/)
 - [International Shipbuilding Progress](https://vtex-soft.github.io/texsupport.iospress-isp/)
 - [Journal of Ambient Intelligence and Smart Environment](https://vtex-soft.github.io/texsupport.iospress-ais/)
